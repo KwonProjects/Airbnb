@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Airbnb</string>
+    <string name="title_bottom_sheet">여러개의 숙소</string>
+</resources>
